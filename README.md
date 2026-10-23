@@ -9,12 +9,12 @@ Página estática em português no repositório próprio `perksverse/perksverse-
 - Apresentação da proposta do Personal Benefits Hub, fluxo de uso e limite de elegibilidade.
 - Identidade visual SVG do repositório `perksverse-docs`.
 - Prévia ilustrativa da interface, rotulada como exemplo.
-- Pesquisa curta com validação, preparação e cópia das respostas.
+- Espaço reservado para pesquisa; o envio fica indisponível até estar conectado a um destino real.
 - Layout responsivo e navegação por teclado.
 
 ## Próximas melhorias
 
-1. Definir o destino autorizado para receber respostas da pesquisa e integrar esse destino. A versão atual não envia nem armazena respostas; ela deixa o visitante copiá-las.
+1. Criar o Google Form, vincular sua planilha de respostas e incorporá-lo à landing. A versão atual não mostra um botão de envio.
 2. Confirmar redes sociais oficiais e trocar os rótulos “em breve” por links reais.
 3. Confirmar se haverá vídeo oficial. A prévia visual atual é uma ilustração em HTML/CSS, não uma gravação do produto.
 4. Definir política de privacidade e domínio próprio antes de abrir coleta de dados pessoais.
