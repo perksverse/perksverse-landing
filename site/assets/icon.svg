@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+<title id="title">Perksverse symbol</title>
+<desc id="desc">Abstract P mark composed of three violet interlocking ribbons.</desc>
+<defs>
+    <linearGradient id="ribbonUpper" x1=".08" y1="0" x2=".97" y2="1" objectBoundingBox="true">
+      <stop offset="0" stop-color="#9A73FF"/><stop offset=".55" stop-color="#6646E8"/><stop offset="1" stop-color="#5234DE"/>
+    </linearGradient>
+    <linearGradient id="ribbonLeft" x1="0" y1="0" x2=".85" y2="1">
+      <stop offset="0" stop-color="#8E62FC"/><stop offset=".52" stop-color="#6646E8"/><stop offset="1" stop-color="#2D13AE"/>
+    </linearGradient>
+    <linearGradient id="ribbonShadow" x1=".8" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4324D0"/><stop offset="1" stop-color="#190D88"/>
+    </linearGradient>
+    <linearGradient id="ribbonForward" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8674FF"/><stop offset=".48" stop-color="#6646E8"/><stop offset="1" stop-color="#29159F"/>
+    </linearGradient>
+    </defs>
+<g transform="translate(45,-12) scale(1.02)">
+  <path d="M154 94 C154 68 177 52 199 65 L337 147 C350 155 357 166 357 182 L357 264 C357 275 353 284 344 290 L254 238 L169 192 C159 186 154 174 154 160 Z" fill="url(#ribbonUpper)"/>
+  <path d="M81 334 L258 223 L343 271 C357 279 361 291 344 302 L203 381 C187 391 176 384 164 375 L133 361 Z" fill="url(#ribbonForward)"/>
+  <path d="M55 171 C55 146 78 130 100 140 L150 169 C163 177 168 188 168 203 L168 428 C168 458 151 473 128 460 L73 429 C60 421 55 408 55 394 Z" fill="url(#ribbonLeft)"/>
+  <path d="M55 367 C55 354 62 343 73 337 L168 278 L168 429 C168 458 150 473 128 460 L73 429 C60 421 55 408 55 394 Z" fill="url(#ribbonShadow)" opacity=".6"/>
+  <path d="M168 278 L258 223 L343 271 C357 279 361 290 344 302 L203 381 C187 391 178 383 168 377 Z" fill="url(#ribbonForward)" opacity=".93"/>
+</g>
+</svg>
